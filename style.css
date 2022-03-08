@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;300;700&display=swap');
+
+
+    body {
+			background-color: white;
+			margin: 20%;
+      font-size: 1rem;
+      font-family: 'Work Sans', sans-serif;
+		}
+
+    p {
+      font-size: 3.5vw;
+      text-align: center;
+    }
+
+    li {
+      font-size: 4vw;
+    }
+
+		img {
+			width: 100%;
+		}
+
+		#caption {
+			font-size: 3.5vw; 
+			color: black;
+		}
+
+    h1 {
+      font-size: 11vw; 
+      color : #c7ddf4;
+      text-align: center;
+    }
+		h2 {
+			font-size: 6vw; 
+			color: #F0A893;
+			text-align: center;
+		}
+
+		#tribute-link {
+			text-decoration: none;
+			color: orange;
+    }
+
+    #box1 {
+      background-color: #EDF0D3;
+      border-radius: 25px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.15), 0 9px 9px rgba(0,0,0,0.23);
+    }
+
+    #box2 {
+      background-color: #f4dec7;
+      border-radius: 25px;
+    }
+
+    #box3 {
+      background-color: #f4f4c7;
+      border-radius: 25px;
+
+      padding: 20px; 
+    }
+
+    .club {
+      border-radius: 50%;
+      width: 10%;
+      position: absolute;
+      border: 10px solid #c7ddf4;
+
+    }
+
+    .menu {
+      text-align: center;
+      border-radius: 50%;
+      border: 10px solid #FAF6EA;
+      width: 50%;
+    }
+
